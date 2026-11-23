@@ -1,0 +1,21 @@
+{
+  "current": {
+    "export": "20261029-0555",
+    "knowledge_base_id": "24cfa42a-e547-4c2c-9726-7716ec0a7302",
+    "topics": {
+      "organisationseinheiten": "974bdde6-c8ba-4be5-99ad-6c2aab7d2c58",
+      "leiter": "5b61436f-ad91-42d6-aa3a-4611703ef450",
+      "stellvertretende": "55fbaeb7-a186-40f4-91a4-304912f9e0cf",
+      "beauftragte": "5155cb8e-bfb7-4afb-8e17-cc4b561f378f"
+    },
+    "uploaded_at": "2026-11-20T12:30:09",
+    "facts": {
+      "organisationseinheiten:part1of2": "a00266f5-19e4-4572-a59f-94e0ac62c6bc",
+      "organisationseinheiten:part2of2": "2a133c8a-a401-48bc-8e22-58952f1b0a39",
+      "leiter": "d35a1a9b-c3a3-4cd7-ac8a-18885cb8dd87",
+      "stellvertretende": "0724ea19-e8f9-47eb-ac5c-5f377758c381",
+      "beauftragte": "abb38617-0e39-4b5b-9564-d6e03756fea6"
+    }
+  },
+  "pending_delete": []
+}

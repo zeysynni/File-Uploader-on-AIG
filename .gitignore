@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+.DS_Store
+*.tmp
+tests/upload_log.json
+
+# Customer data: the real intranet export stays local, never in git.
+Files/*.csv
+
+# Mock data and the ids of its one-time upload: local only.
+test_data/
